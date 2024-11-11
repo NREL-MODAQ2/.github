@@ -1,3 +1,3 @@
 NREL-MODAQ2 Organization.
 
-Please see our github pages at https://nrel.github.io/MODAQ2/
+Please see documentation on MODAQ 2 at https://nrel.github.io/MODAQ2/
