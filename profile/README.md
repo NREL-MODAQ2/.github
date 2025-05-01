@@ -6,4 +6,8 @@ Please see documentation on MODAQ 2 at https://nrel.github.io/MODAQ2/
 
 Copyright (c) 2024 Alliance for Sustainable Energy, LLC
 
-This organization also includes forks of other entity's repositories which are not owned by Alliance for Sustainable Energy, LLC.
+About this GitHub Organization:
+
+This GitHub organization is maintained by Alliance for Sustainable Energy, LLC, the manager and operator of the National Renewable Energy Laboratory (NREL).
+
+Please note that this organization also includes forks of repositories originally developed by other entities. These repositories are not owned or maintained by Alliance for Sustainable Energy, LLC, and are provided here for convenience, collaboration, or contribution purposes. Ownership and license information for each repository should be reviewed individually.
