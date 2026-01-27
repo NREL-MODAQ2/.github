@@ -2,7 +2,7 @@ NLR's MODAQ2 Organization.
 
 NLR Software Record Number: SWR-24-138
 
-Please see documentation on MODAQ 2 at https://nrel.github.io/MODAQ2/
+Please see documentation on MODAQ 2 at https://natlabrockies.github.io/MODAQ2/
 
 Copyright (c) 2025 Alliance for Energy Innovation, LLC
 
